@@ -11,9 +11,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@abhinavnirmal10](https://medium.com/@abhinavnirmal10)
 
-- 💬 Ask me about **C++, Java, Spring boot, React.js, Docker, AWS**
+- 💬 Ask me about **C++, Java, Spring boot, Angular, React.js, Docker, AWS**
 
-- 📫 How to reach me **abhinavreddykandukuri8@gmail.com**
+- 📫 How to reach me **abhinavreddykandukuri9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
