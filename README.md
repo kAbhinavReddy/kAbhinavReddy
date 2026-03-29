@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C++, Java, Spring boot, Angular, React.js, Docker, AWS**
 
-- 📫 How to reach me **abhinavreddykandukuri9@gmail.com**
+- 📫 How to reach me **abhinavreddykandukuri1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
